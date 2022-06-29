@@ -72,7 +72,8 @@ The same for the page "Create account"
 
 >Code
 
-![image_2022-06-29_233923133](https://user-images.githubusercontent.com/101675260/176557592-a27b54c8-5cce-4436-8807-e61e9373ec4b.png)
+![prC](https://user-images.githubusercontent.com/101675260/176555908-7464ec05-4275-47cd-a00a-73a4ac8bbb09.PNG)
+
 
 We have added the possibility of adding one or more addresses ,and a page to see current orders ,we used a table for the design part to organize the order part and we added a condition on the display of the page on it
 
@@ -95,15 +96,6 @@ We have added the possibility of adding one or more addresses ,and a page to see
 ![image_2022-06-29_234559963](https://user-images.githubusercontent.com/101675260/176558204-3d9fa08e-a9cb-495a-b640-6242af13947a.png)
 
 
-
-
-
-
-
-
->Code
-
-![prC](https://user-images.githubusercontent.com/101675260/176555908-7464ec05-4275-47cd-a00a-73a4ac8bbb09.PNG)
 
 ### >Cart page
 
