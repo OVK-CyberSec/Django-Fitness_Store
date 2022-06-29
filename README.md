@@ -64,7 +64,8 @@ The same for the page "Create account"
 
 >Code
 
-![image_2022-06-29_231910052](https://user-images.githubusercontent.com/101675260/176555325-65cd2f50-f597-4659-9a70-10fcf981eb31.png)
+![crC](https://user-images.githubusercontent.com/101675260/176560360-8ef7f2e3-c339-4a6b-8395-d1bf8ae72f06.PNG)
+
 
 ### >The profile page
 
