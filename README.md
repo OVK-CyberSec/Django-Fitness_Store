@@ -7,8 +7,11 @@
 
 For running the project you must have the latest version of python and running these commands after importing the project in a empty folder:
 1- py -m pipenv shell
-2- py -m venv venv
+
+2- py -m venv venv 
+
 3- source venv/scripts/activate
+
 4- py manage.py runserver
 
 ## Home Page
