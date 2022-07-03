@@ -32,7 +32,7 @@ All the design aspect was done with CSS.
 
 ![m4](https://user-images.githubusercontent.com/101675260/176551531-8febcf63-b0b0-42de-bf19-73277ce1db94.PNG)
 
-Before we jump into the django coding aspect let's take a look to the code to the main page
+Before we jump into the django coding aspect let's take a look to the code of the main page
 
 > NavBar
 
