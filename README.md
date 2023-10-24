@@ -1,10 +1,3 @@
->We want to thank you Mr Jamal for the attention you have given us during this semester and we hope that you'll teach us in the futur.
-
-# Project Report
->Collaborators Amine Hifdi / Abderrahmane Ellaouzi / Soulaiman Hilal Emsi 3th IIR Group G4 Maarif.
-
-### Project Based on Python Framework(Django) / Html / Css / JavaScript.
-
 ### [ASA Fitness] is a E-commerce website for the sale of sports/fitness articles.
 
 For running this project you must have the latest version of python and running these commands after importing the project in a empty folder:
@@ -19,7 +12,6 @@ For running this project you must have the latest version of python and running 
 
 ## Home Page
 											
-All the design aspect was done with CSS.
 
 ![m1](https://user-images.githubusercontent.com/101675260/176550842-5f6a9230-b7fd-4255-900a-1198590308b3.PNG)
 
@@ -32,7 +24,6 @@ All the design aspect was done with CSS.
 
 ![m4](https://user-images.githubusercontent.com/101675260/176551531-8febcf63-b0b0-42de-bf19-73277ce1db94.PNG)
 
-Before we jump into the django coding aspect let's take a look to the code of the main page
 
 > NavBar
 
@@ -51,8 +42,7 @@ Before we jump into the django coding aspect let's take a look to the code of th
 ![navC](https://user-images.githubusercontent.com/101675260/176554253-19a7d805-b4cf-4087-82db-b5f714f72ee0.PNG)
 
   
-	
-As you can see on the navigation bar, there are four links to it, but we will mainly focus on the last two links of the "login" and the "Create an account" and their codes.
+
 
 ### ![nav1](https://user-images.githubusercontent.com/101675260/176552681-b6f310f8-5fc3-4db3-a5a4-a72458698fbb.png)
 
@@ -63,13 +53,12 @@ As you can see on the navigation bar, there are four links to it, but we will ma
 
 ![image_2022-06-29_231156726](https://user-images.githubusercontent.com/101675260/176554450-38b8e647-58f1-4d98-b4fc-c14caec9d3e3.png)
  
-The entire Back-end of the login page is coded with Django with form processing with Html
 
 > Code
 
 ![loginC](https://user-images.githubusercontent.com/101675260/176554850-60f2f5b9-37d6-492f-b245-f6cd9ae9f139.PNG)
 
-The same for the page "Create account" 
+
 
 
 ## Register
@@ -89,7 +78,6 @@ The same for the page "Create account"
 ![prC](https://user-images.githubusercontent.com/101675260/176555908-7464ec05-4275-47cd-a00a-73a4ac8bbb09.PNG)
 
 
-We have added the possibility of adding and delete one or more addresses ,and a page to see current orders ,we used a table for the design part to organize the order part and we added a condition on the display of the page on it
 
 ![image_2022-06-29_233109558](https://user-images.githubusercontent.com/101675260/176556715-43f4dfbb-05af-40b3-95d6-c54c39601126.png)
 
@@ -115,7 +103,7 @@ We have added the possibility of adding and delete one or more addresses ,and a 
 
 ![cart](https://user-images.githubusercontent.com/101675260/176556392-573f2501-dccf-423d-bec3-95490e1c5dbe.PNG)
 
-We have added the possibility of a selector which allows you to adjust the quantity of the product and the dynamic display of the price
+
 
 ![image_2022-06-29_233602306](https://user-images.githubusercontent.com/101675260/176557241-4ad1dc5b-b4a8-49b0-8771-02c625f38864.png)
 
@@ -126,7 +114,7 @@ We have added the possibility of a selector which allows you to adjust the quant
 
 ## Password page
 
-We also added a possibility to change the password
+
 
 ![image](https://user-images.githubusercontent.com/101675260/176560946-0e2c3564-f1c2-4c01-9b0d-835d03dc7095.png)
 
