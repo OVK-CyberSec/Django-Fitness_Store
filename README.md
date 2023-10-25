@@ -77,8 +77,6 @@ For running this project you must have the latest version of python and running 
 
 ![image](https://user-images.githubusercontent.com/101675260/176561790-5b93bcb7-d03c-46bd-9902-d18c20865e6b.png)
 
-![Sans titre](https://github.com/AmineCyberSec/Django-Fitness_Shop/assets/101675260/22b32d91-1673-4872-9ecb-2d49d3a53c04)
-
 ![image](https://user-images.githubusercontent.com/101675260/176562979-ad6bbc92-d477-4e15-bf30-15f659f9eeb5.png)
 
 
