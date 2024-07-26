@@ -1,6 +1,7 @@
-### [ASA Fitness] is a E-commerce website for the sale of sports/fitness articles.
+### [ASA Fitness] is an e-commerce website dedicated to selling sports and fitness products.
 
 To run this project, ensure you have the latest version of Python installed. After importing the project into an empty folder, execute the following commands:
+
 ```bash
 1- py -m pipenv shell
 2- py -m venv venv 
